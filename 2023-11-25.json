@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Porter",
+  "age": 31,
+  "address": {
+    "street": "Vusmun Trail",
+    "city": "Akaaldo",
+    "state": "NC",
+    "zip": "97944"
+  },
+  "contact": {
+    "phone": "(547) 483-8267",
+    "servicePhone": "800738128"
+  },
+  "birthday": "1990-01-06T08:37:42.426Z",
+  "ip": "91.66.162.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Fadiwiz migo cu ni facluit rane riviewi pamtopaj tec jina rucad zecum ogawapa. Zigdoede bogig ko inzu ucioluhew iroesigu bivako icwuc da ip mupwohag ocpah it amaji jev ivure. No oma rehi il savuc mek bidug mochuw jedeh jub suv cifva pof. Hafe oduuhi tuj dazhej evufa afcoz bu cawazus vafuj busife vi us poho.",
+    "bio": "Fit murik pa moveda evnow unino jez sirap tilconubi vevsiuj nacuz ju diz ag tenka nesvera agu bizozav. Romedar bag zebikef kamam ho zivvub sat owfagi sokictom vaczeid cazbuiwa fokiko inugudene. Galeje reh kukopzi gob cos rigvip momgodan fev kizapiw ritlaj lihoz zujjop bof nop. Hogfe gasoik velbesaj ceh gukhiw lehpeniv zaj uta cipod avopacad zi po. Zezdaz heazu pup sapwetga notadis tahursi suguvuto sesid orbifab romi ketjopad fej. Vigpefir baclo rozegu uzi del bi jurtivdo ihojufo toka izorum mumcicre lubar zulna wag migadsab mir."
+  },
+  "apiKey": "ec4e7a9e64e174f62159ca7ed276e675d933e6e0be3b6cb8e0a7f6282fb32899",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
