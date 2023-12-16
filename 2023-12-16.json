@@ -1,0 +1,26 @@
+{
+  "name": "Mina Gomez",
+  "age": 22,
+  "address": {
+    "street": "Ciwo Road",
+    "city": "Pupevta",
+    "state": "CT",
+    "zip": "69910"
+  },
+  "contact": {
+    "phone": "(443) 535-9981",
+    "servicePhone": "800258829"
+  },
+  "birthday": "1973-03-12T02:35:23.460Z",
+  "ip": "206.37.223.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Ajiwet bushu izawi idsuter fuzra wawciso uhrid herbag lus jenhihdoh oga gaje ewo hosakgej aga namehvec. Wule iji otomovag cejjaduj golcolfij sucvedral ulocabgi cufvouz kama bomog ri virome su egli. Bolu upu jusridun aknimoto date lop jucutiful jofdena oflaba faoh bo pa urrac. Ise pov oza avifijih bi pewane muppajuk siwke huwtin voro guha zu zavpafan.",
+    "bio": "Cipludnoh we wohosa getkekiz sog gizet ijalemo utewe moj sat subo toriztal hawpa ic ari muj van. Makamtis ojaara hej tidovi ruw gag za vunhomus gig reav her tauzad. Ji hemmav ric cototli riitu teszof efeaj jubkepor upja nawbujoho jaco epe eda poh vasedfa. Bi as ga vu da dukgo gaj ejecenero pewuvicid hu izueluat pinoclat wo."
+  },
+  "apiKey": "093d14b53a4dfcbe6d3329f7e5a213f5b799c060982784ec3da0dc02956eb8bc",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
