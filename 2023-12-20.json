@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Robinson",
+  "age": 25,
+  "address": {
+    "street": "Nonod Highway",
+    "city": "Motcaksat",
+    "state": "WY",
+    "zip": "55050"
+  },
+  "contact": {
+    "phone": "(846) 875-2841",
+    "servicePhone": "800494392"
+  },
+  "birthday": "1983-05-07T23:45:30.241Z",
+  "ip": "11.244.66.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Poton riiv las hopi vodak bugemle vej vur daj ciive fo desu igufociw uz kur ja. Fusuaca senid pafef fu vin afuw orlopat kiroba inri ziwtabem tinu wizi zata celviho lo. Las nagwi boamano vopsez rupjamek fomo ce apelomwid uduwa uwufobub bongipzez reala al tu es dehop. Hiejgic avagancav ner awiwa zaccugpo buvgog lab doj me duhelufo ki furmawce tifdishi togzum huzod gutuk hewimo uffo. Ase pubfe buftum cuvraot lofuwnuj zop jom vi vahmadpu oppotoco uwvuvof poj zappukaz kuijhem jovzaz wu. Zuwtobus okepju pisu hawalev wacbej wolucgab teg paew orjuhe ji ofdabne heb odpivka amacu meji ijlas.",
+    "bio": "Soh bu fe emtofipu rodo rojubu ne kag duphaw zasfug cef mugharpe sutu lej. Pijjo ri za juedakit ezofuwito seekaih nu la oteucoson vaknavut wut tonjahwos savsubap ha velova kafmepija. Orwu sisjeif so eja dik li zeh ten iwocusna umeah kuucha fakewan. Holkam ago dap zun wuj vu getnu da fak wu onjap oremude."
+  },
+  "apiKey": "7b7748e62d89d2b2d66e79f9d2be515dc32911bae53cd8d8fee6c41aab9af82f",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
