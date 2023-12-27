@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Bates",
+  "age": 31,
+  "address": {
+    "street": "Ritna River",
+    "city": "Kahizane",
+    "state": "OR",
+    "zip": "55515"
+  },
+  "contact": {
+    "phone": "(837) 607-5540",
+    "servicePhone": "800691466"
+  },
+  "birthday": "1970-08-24T07:54:42.807Z",
+  "ip": "219.164.255.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Peban se ro zowam sil heemagos fune uzpiw vumubsom ubrik ikkeb dav. Tu ucvovtak cujagil ecovuv ir licgul tap to va jethuk pazi fo jihe sa itvovot. Tu niuz imasu jo tet sanjumlow ku rufejes jeze ufpu jumup savkocseh.",
+    "bio": "Jetro tub pabema atimop kipkuc uwopiwon ab ahkijes nut ohrog juguz lonbud uriid agdodpi jabmeslew. Sacitujak viso ohu ujuco fu juggo ufdowwoc vez acri uta duzoj va ozagukvow ipoguh keocegu. Araceg bu tavecu hiwigzow vosbal nergehrec jahnobo satusi lewa piakjoz viadbih herleiw mapalota vi wates pel fi elapebno. To obej su pudri zud fuzfakke mopovduc rut sip ruhmeve foal uliwial ti fewac pifogubip vaviz vevef."
+  },
+  "apiKey": "dfc2e5214a292d5dca15bead3f327d108e2497b49eded85649c0e85c62482abb",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
