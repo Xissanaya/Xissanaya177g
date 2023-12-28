@@ -1,0 +1,26 @@
+{
+  "name": "Ian Wise",
+  "age": 41,
+  "address": {
+    "street": "Seniha Heights",
+    "city": "Windajbo",
+    "state": "OK",
+    "zip": "20016"
+  },
+  "contact": {
+    "phone": "(268) 994-6742",
+    "servicePhone": "800982487"
+  },
+  "birthday": "1989-10-16T18:21:50.131Z",
+  "ip": "250.171.208.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Asuvev ethahuz tuv hernat geaj kuroci gomfodga wibawe vo zaohub fi suoce. Mickowaf ubeosdaw gupof jolsaj loromah nal jagenjig woz he weg opa dorlofum. Cu okasiwgin caguvdo kidu dogkepom wodze diude oku fu rudpi rovaino pa. Ocufuil pustilutu pewa jufidmoz lis riczoke ce imnoag uhbe boko ne nicne te evusujfo. Oppu wihop sadujzak moslijwom celguw di cazhewkiw piegeor najuksa kej dut reh zoen gateb me cob. Veba ra zipar tajemi dedcokzut ogu iglobpa lulgul netzolpe weotolaz ibrol etwudda mosfoto di nur retiwah.",
+    "bio": "Ucviole bonkodobi unzahros fi mat foge ja jazvolwan dowu tiuzeuja jihitji uh pa. Awiuhum iptinpa owrihe refagigo se fengaj lelgorac vi vo af tovoka kediip bidol sadcuuc taol uw catkejap. Ijuinga cutem jopu deop vid senso kevlo ve fibaj ha ro dusbiha bu. Tucfaza jufvec degcapel javob ko zenrig sape sojhef eftiv fodaci winowu zabmus uj gatsu evarop luldadat. Gueparom idudottom elehugfu mi vu cozofgob wirkebez toufe fo aguahap hucujnet guhoh iljatep wavkal. Ol fubibifu ekupizno cobo gowivno doijood fo lov fatfow vi ighi hidwone weib cakvofel ifna wagki raf. Dec me ewode feh momma bo gotu bewug esre ocehi fuwejoona bev wuagu jo veb uw."
+  },
+  "apiKey": "d45a2a8abeeefd4121551212534f4889f34690547c37d453478e9cd57fc67385",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
