@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Chavez",
+  "age": 22,
+  "address": {
+    "street": "Gafe Avenue",
+    "city": "Vajorove",
+    "state": "CA",
+    "zip": "29764"
+  },
+  "contact": {
+    "phone": "(329) 511-7138",
+    "servicePhone": "800649423"
+  },
+  "birthday": "1972-12-23T12:34:32.873Z",
+  "ip": "240.72.244.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Gew eturiako guc va ibicfos igiuzaje tag agage juvwud babizon pimacis cafan po geggec. Woow kigob jigun berjedi cu bovguus led suj vinrib nase cuwubnep cietta iproj sosso ci sacoj. Jiw pu hig dir lu batorzew hevpotki paposup nohoful ja waifi mimwawini nevo cotgoti rip.",
+    "bio": "Jotavo vi awar ciareke rube hos maze wupejkuv ricef mimburit siro ibulaz bapid rabid huec zoil. Jaicid kego emosanli ubzajka cislil po ni afeosi betgufaf jazin lumana zenmibmev bujuv duzleaf. Sa elsu mot orofob giarwem ufhovom fiacgi itdo we bufupuej og ek rusra ji. Jotuzif bahwaf dolukni pobkecpag zupunez ahurat bo nivika optivfiw zi izamibad dirje jam ijriwma utezo refas."
+  },
+  "apiKey": "b80f9541a8a6360b3566f9686d181db205e808c1050962c35cd93e67d5166dc3",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
