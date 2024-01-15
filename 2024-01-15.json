@@ -1,0 +1,26 @@
+{
+  "name": "Danny Powers",
+  "age": 39,
+  "address": {
+    "street": "Awri Ridge",
+    "city": "Kajepouzi",
+    "state": "MN",
+    "zip": "68760"
+  },
+  "contact": {
+    "phone": "(783) 885-1484",
+    "servicePhone": "800327831"
+  },
+  "birthday": "1973-02-22T00:50:06.989Z",
+  "ip": "40.235.247.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Silub pusli alcekzi sedog ariwu se bovut osudecofu vowosiluc ebwuvcek iha uh amtikro ihanas. Fej cinpujad bi vocotiza rod luwtu bawih wiwu hin inobiraz ruvetav iwiva va ni sobjal engiz. Ug uboega otdamuke wuwcuj otewimsir jubada ogaredam oc igupaziv bambaftu eruitpe zob evejodi heg fedliwud wozfukmad.",
+    "bio": "Gehoc moz nav esjope ajo fas reaka toergo kofud zuk polovfuc evmuhvul uduceh kovepob paaj pe. Onego ovotofgo piraffom mufehte sumap tiwuker fiip ofiuhakav ageugmu va osounidi uzworu pijmoeja kafihnid al. Rigmab ti ti joz lavud otelabi nu no relojreg cum gecjep li ule sebeli vuno zojov adso me."
+  },
+  "apiKey": "c12506a45265823d89e00efa5259e90e521096e3058c1f7b3bb3d59672b884cc",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
