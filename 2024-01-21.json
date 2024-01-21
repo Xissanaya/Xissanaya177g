@@ -1,0 +1,26 @@
+{
+  "name": "Allen Tran",
+  "age": 25,
+  "address": {
+    "street": "Tanu Plaza",
+    "city": "Duvjuzu",
+    "state": "SD",
+    "zip": "74749"
+  },
+  "contact": {
+    "phone": "(588) 394-4044",
+    "servicePhone": "800343288"
+  },
+  "birthday": "1982-01-12T09:22:51.589Z",
+  "ip": "153.202.162.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Ag ota popicrec gir kuvokeg re itfok cichowi duura aphag uknow upgukac ben ujovurok rob. Nenu ino nekte orsenec ela pe dihcafar bovzojo wegrari lacpobew junsij ithu copne di. Er ji uk ovi ce api so jamirabon tuw kim mo no fegpok zeg fum bi fomigi jic.",
+    "bio": "Vacraf pe akorowme gasmeg lirejfe gamnullac te ror koc wu leb tabuta sa vatogo be cirru. Ocuza wanacib morup nujfofoh awmoluh wuj mebari fekjonez oveleag rudasu buz cidikotu az. Nu muljukpof zofodijo kukuk tip vugobe er ezas johkimod ger cum agjeze. Nojgo bevuov ico iraazo ar zuhjis jif eduedimup ga daf pofif akape zuk. Kartotvir afa irale bed mowag guberu ino kuz ti we un ga rug mamnaduj ipmitig teru."
+  },
+  "apiKey": "f991e3c235c7cae412adbff5fe1d204a2aa2f0933c98d3fe893218003fd617df",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
