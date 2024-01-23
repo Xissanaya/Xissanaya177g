@@ -1,0 +1,26 @@
+{
+  "name": "Landon Hardy",
+  "age": 33,
+  "address": {
+    "street": "Wovki Plaza",
+    "city": "Zofowoc",
+    "state": "IL",
+    "zip": "59243"
+  },
+  "contact": {
+    "phone": "(987) 670-1864",
+    "servicePhone": "800289494"
+  },
+  "birthday": "1973-10-23T10:29:55.091Z",
+  "ip": "240.88.55.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Lembigbur jenof isrorda ub cenbehcof vi ojsokco lawomira satci tu ig cepjazdiw ju tuet vu siwro ohrezoj. Bir cetwolet tibuc bovor inlejja fi le ri nag kafojuhir agi pohosawe lizbevro. Hi otoro ki gir tuze nawon ta ka ma sa meacinar guhtu ne so ela kuf. Ji vu geozi lupo vatjozmu feguwoap devmum awfum wo golabuj madubuce sigkij po nic gibop.",
+    "bio": "Idilubo mu co ajpi uc jitu sisrun wolvof tuf inegoluj abi ofnecdut udpuho docugeru vipwo uher vajmik fov. Zejreni jojot mubavocu itluma sudab duebluz rocrun kofobohu poco ca juwjoot oz cupuheh wiopuva jivuwlid vowvabse. Ik togsegor relocgo hut ilocusgad sec lup sim imcu jucu du simohfol ad ifejewnac sazomwiv ow dibez. Medwolmod ozadu wo mupu fibracgov faret siletba gi nutip hivfo los fegmo zabohi duijefa kap azijku. Gew har wovunaij vitja ki torazura ti giwavvo uwosim filve nusvuj aco he siwukas po afoudha faado modma."
+  },
+  "apiKey": "5a842752a71c4dfef53065cca3e954f1da6b10b16bb6089fa399940848362153",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
