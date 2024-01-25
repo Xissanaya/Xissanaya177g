@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Cook",
+  "age": 50,
+  "address": {
+    "street": "Nuffa Street",
+    "city": "Saafeci",
+    "state": "NY",
+    "zip": "86764"
+  },
+  "contact": {
+    "phone": "(463) 535-2051",
+    "servicePhone": "800631971"
+  },
+  "birthday": "1962-05-03T11:48:46.457Z",
+  "ip": "179.84.2.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Hovuvu piskimneh pe uki foweroz wulzag ce uf can runna enku vok zinba he. Jid ahuba apful nu se vutbelce tu oz vevoj mansediz igetat iji. Cij ososaot arnessec zal lugudaude aba najmon wivfon padruopo pobekop zuh fowmig sihtan vekve fatid ho heba.",
+    "bio": "Zet falhuwlif ecbueni isac fuuli kiev eli rascutvu mu inedebva ojebitug ficejzep dih forbe top temca cal. Emujakni am morik ageepihi tokofaw toikpub ne ur nesoc tasbejoc co vo hulo. Teswapkod te nojapev wazse pemuccoc ivo nabsem mapu itokum hipeupa fih humed. Kob losrijfo wonfa loziri jama zagdez hu ir weuf jaftuv weciete oni doc. Jepzur operu nu kuzze we vezlic etowka rum pohoba gut gec if ruj ece ukved zazdumgu. Hepor va lub kisnuj ew felkig win iti mimueb ogouk agvik cevjial uv sug jiwuwro tezebdor zupnus guumo. Ziuta icremol wa ke ramoffuf sipju sof per dinowgi tivpirbu ikjov ukga ula mi."
+  },
+  "apiKey": "9bee45572bf3e1a3e514d43ce192810833792e1031d1f1dd128894f38da483a4",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
