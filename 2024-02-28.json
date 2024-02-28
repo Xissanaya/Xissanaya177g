@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Walters",
+  "age": 52,
+  "address": {
+    "street": "Ojuvu Heights",
+    "city": "Dukwoome",
+    "state": "HI",
+    "zip": "89215"
+  },
+  "contact": {
+    "phone": "(579) 517-4049",
+    "servicePhone": "800139479"
+  },
+  "birthday": "1993-06-28T12:41:27.567Z",
+  "ip": "14.153.226.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Zut weigu imismuw oha fe eburissap di bajja zud du arnarut gagbur. Buzve rekal lu iboalikic pegif zub wuhkasil igju zici ranewag sat ed rojuw. Ho fowmeev kafje lu bed rovjeof inov bu kebuw toothu higdi tevoluw nukvic votwipkas vi be medzek.",
+    "bio": "Jotutjak hikempef bicwezli esaaw fegsoh heazi lobarfo nomar adi tu vocolgup bo. Zizzeva aridabbik atiho surop ukvubat kowawtov oh tar adabogi siji hihja at eb. Jajjudej ebi otazmeb ule gudeb pi atahume perpod zi ada suvwinut sipuvne zor piofza hosembit deluw vosnugun bet. Widbu ebaka bebfo sufdirrep wivhatba nosigo mom faijo nonlezig ifeabuva bel ca teon juwzuk wubfom ijfibos colugod vagaeje. Bog tobruzba wajwi jehzebu oduzi du anwu revdopu la saksi ahezih muprev wetje metiizu retav fu gozneg. Dewko wotuhin idugaluk zu di ciwa liktetul cusoppis il peuh muge wujuz uwviwel tovauvi em. Voezoaki pusabo mob fu aw megu jugu nozgav agcemu pafiiva fauc ca rilit."
+  },
+  "apiKey": "2cb12d199398d7afc1f2e5d14a9c9d1bcfe12790d649c5e278c5599ce3174262",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
