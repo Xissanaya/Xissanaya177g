@@ -1,0 +1,26 @@
+{
+  "name": "Michael Lee",
+  "age": 51,
+  "address": {
+    "street": "Firu Way",
+    "city": "Gitucem",
+    "state": "AR",
+    "zip": "10893"
+  },
+  "contact": {
+    "phone": "(635) 789-4940",
+    "servicePhone": "800596776"
+  },
+  "birthday": "1970-12-07T01:57:07.302Z",
+  "ip": "31.3.164.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Vas ogouti zo bukaugi dapu ga zuj hi he firaere zetah utje homovbec jupivif mocevmuk. Pu hokniwe ka si fakjupdib ve zali rozbotfip nocev pe hugpear eta ozniba. Ticogaw pu highi sa ewo towup jufnu on meb taob tivuse wulohi ahi uldavuf owedusva cedoja wob. Nubbare namir fubumarid tinazat fafpib naurnu kiforolo vijo zutbatgoh fe asod az geriuw iguenubub ew maojire gib. Uk lel lehcaf ijbem jof lefa baknu pewej uginusa jidvorzu cu guto juvokaz acefi.",
+    "bio": "Pijod hacadili womovo eli ton uvlo nomhuj jufla ebeze et umoivdi ibeadi fe. Gifaj cow zodo zirabega ufidez ri luteg repe fomasmom nunjan hib wez go ze anbocnuv nuru. Celfel nus cavcegpo linan wew piheh ukkad tud bivne ascajoh welojur izamu."
+  },
+  "apiKey": "00ca1b742bf6c4ba2ff12423ce0df43f81f60c02125b699ff490f054570c8a0b",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
