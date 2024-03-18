@@ -1,0 +1,26 @@
+{
+  "name": "Frank Saunders",
+  "age": 53,
+  "address": {
+    "street": "Lokda Park",
+    "city": "Kemwoiji",
+    "state": "NM",
+    "zip": "07082"
+  },
+  "contact": {
+    "phone": "(376) 284-2004",
+    "servicePhone": "800735265"
+  },
+  "birthday": "2004-05-01T23:30:50.113Z",
+  "ip": "108.100.123.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Dilkuvaj naktajok losusoz kisgig horeplug conamla mabijda upe hocav zegi le te. Bucofid guc unuheg japwit sil bun nez kuuwepo ven pamho tar ewzoctef do. Zo zugo pe naoci wu ikafe sas caj gimudu muih pomsah vakmir zeugu atetici botjuhok da la. Nure hiwut ijag wo fuvi luzigiza kug gucuh bewozeh su dasne modum mirnof humvinvu pase kum jagleges. Uvibu izjo ab ju poso gepeit kaz feczabih nam vuf mokkal gutha zumah birho opo. Ceg ala az cirpicope be tacibev ceoka verne wod awo gocpamtoc papmo tezwata ninci hu nu di kihzu. Ha duku so nimtibwa ji abneuho ni lig bi avijum vanoc figos porgesik.",
+    "bio": "Mofsiz getra tekladoc nu tababe po nem lartis ne deg roseka ifu laran gavtut. Teet uhzokin pag mirogba bovdo momsajuc gacrucip siifad vo ejsob lannec ragpius otu. Kiwhiiba bonune hevvu nu ufolisof bunhidwud buhreow effak kenor pokgof ligtulij ac feja wez di jeppifne web kol."
+  },
+  "apiKey": "b21e03a774c1e63acd9ecb31fb9f09f7cf9b3e25efa2ffb2a1bf4b9eb2749fc7",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
