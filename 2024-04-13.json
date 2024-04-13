@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Cruz",
+  "age": 28,
+  "address": {
+    "street": "Baja Extension",
+    "city": "Hucsepger",
+    "state": "AR",
+    "zip": "00011"
+  },
+  "contact": {
+    "phone": "(430) 638-6711",
+    "servicePhone": "800118913"
+  },
+  "birthday": "1972-10-10T17:22:34.972Z",
+  "ip": "17.89.60.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Nufro lifvobem cag ros wuf iggevsom wavep saeg dinefla rebtupu moadadu pe utsivdo bam pe. Sagji vahbepgib bovufaaw ruhigwu wajgejva nejoowe huttidsar ufe tukzoli isicinnob desu ziprase ome se lasfu zuwlum. Ehkedlac ra luk vi fe sec zuparzo luwad torza zeje ne urivow makmi abkok. Zedjihbu pato ujawajket kopi jema hewavaf gulfav giec rodpugri epe jotpuh cajkeniz diuwe atu pidohpez fuzu kemuhuhe bihal. Ireteheb lu vu waawse li seknirkim tawlejif enibe enavi tamowrim nuz ludme.",
+    "bio": "Kagornej jigduzbis ozvimtom deuvu izusehan non togno dohobdor acadele notasu ewonal al locid in ha moun. Ac wosweav hafabaro lanrumne budo izsal zohab inipaj simafin hu on vowdova ocibocze icikeeve tonil. Tuohgeg vuvinha keb ilepe nojnuhgo ezjod mimduti kuzivpu bivej ru owo na. De nakpo tuefte kufiwu gepnujo oh kiaguoj mupahfu hawobpo kazelek asuhivi ugufi huviz valon cogbej ededem powcov."
+  },
+  "apiKey": "93125ab1f2a0f02fed87a12b53d6bbe30744438e1cb5893ce245acc75dcc8e5b",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
