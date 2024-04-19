@@ -1,0 +1,26 @@
+{
+  "name": "Addie Matthews",
+  "age": 61,
+  "address": {
+    "street": "Gebzaw Trail",
+    "city": "Sololwoz",
+    "state": "AZ",
+    "zip": "36649"
+  },
+  "contact": {
+    "phone": "(209) 724-3832",
+    "servicePhone": "800736326"
+  },
+  "birthday": "1967-07-21T15:48:38.531Z",
+  "ip": "236.248.214.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Juodo riwiwzo sinoaga bozom jamlab iwapawni ni rekutose zup divi pa alo wi diuke. Asecogaw ugo pugluli kiwozpu laretu poef zohwulira huvvi pak kukfar uta agajil jocep mobvut ge. Niarbuf tuezniv jip ag tuw liji tirlet jaggobup focpu uvfud zep wubo. Ijeato ceilare ifnuf dif dikef dutuja devza hiklen fem edaiwwis cu vur jazcudu eno mi hajajra.",
+    "bio": "Sofupsor puffuzwe vojugve hezewi kofwezcuf likit conutoh torserte zoziim weol arko wotweaci nudoil igofol dejemoeje ta ligepi. Nibwanol pa dekug wicikud uh hu soktopdu tugeor enelub hoc baozi pudewce beozi. Nami sa mokceb culu bifowec cokebdab batak moze muced oreleti worujhak nekbuomo ece. Ju co liczuri mupake kumgiha pus bohu pabewzu jiwtef haba zav naovu hiegu nenmajju tesjuvo nit zesimvi. Doppiv tar zesopuh ulicih fevuzawa oduju ra ecoje sispa fi latuni ropducva uza meg ufa badlaved joggogoh."
+  },
+  "apiKey": "2e53bcfdb445dbd58c856c03790b57988c4e315b9d3abcebdb6d6cc67b35fc77",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
